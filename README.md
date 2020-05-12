@@ -1,6 +1,6 @@
 # Firebase Cloud Functions for Nexus-in
 
-This is the code base an API that will be later used to develop a social networking platform. The API code base is in Node.js, Express and Firebase. It's corresponding frontedn will be built with React and Redux. Watch out for the full web app.
+This is the code base of an API that will be later used to develop a social networking platform. The API code base is in Node.js, Express and Firebase. Its corresponding frontend will be built with React and Redux. Watch out for the full web app.
 
 # Running Your Program Locally
 
